@@ -5,11 +5,11 @@
 * Understand terms such as:
 	* High Availability
 	* Scalability
-	* Elasticity
+	* [Elasticity](https://azure.microsoft.com/en-ca/overview/what-is-elastic-computing/)
 	* Agility
 	* Fault Tolerance
 	* Disaster Recovery
-* Understand the principles of economies of scale
+* Understand the principles of economies of scale [(PDF)](http://download.microsoft.com/download/6/e/4/6e4cb3d1-5004-4024-8d90-6c66c83c17aa/the_economics_of_the_cloud_white_paper.pdf)
 * Understand the differences between:
 	* Capital Expenditure (CapEx)
 	* Operational Expenditure (OpEx)
@@ -24,7 +24,7 @@
 
 ## Describe the differences between Public, Private and Hybrid cloud models
 
-* Describe Public cloud
-* Describe Private cloud
-* Describe Hybrid cloud
+* Describe [Public cloud](https://azure.microsoft.com/en-ca/overview/what-is-a-public-cloud/)
+* Describe [Private cloud](https://azure.microsoft.com/en-ca/overview/what-is-a-private-cloud/)
+* Describe [Hybrid cloud](https://azure.microsoft.com/en-ca/overview/what-is-hybrid-cloud-computing/)
 * Compare and contrast the 3 different cloud models
