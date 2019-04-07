@@ -8,7 +8,7 @@
 ## Understand planning and management of costs
 
 * Understand options for purchasing Azure products and services
-* Understand options around Azure Free account
+* Understand options around [Azure Free account](https://azure.microsoft.com/en-ca/free/free-account-faq/)
 * Understand the factors affecting costs such as:
     * Resource Types
     * Services
