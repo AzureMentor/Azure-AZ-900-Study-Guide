@@ -18,12 +18,12 @@
 * Understand Zones for billing purposes
 * Understand the [Pricing calculator](https://azure.microsoft.com/en-ca/pricing/calculator/)
 * Understand the [Total Cost of Ownership (TCO) calculator](https://azure.microsoft.com/en-ca/pricing/tco/)
-* Understand best practices for minimizing Azure costs such as:
+* Understand [best practices for minimizing Azure costs](https://docs.microsoft.com/en-us/azure/billing/billing-getting-started) such as:
     * Performing cost analysis
-    * Creating spending limits and quotas
-    * Using tags to identify cost owners
+    * Creating [spending limits](https://docs.microsoft.com/en-us/azure/billing/billing-spending-limit) and [quotas](https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits)
+    * [Using tags to identify cost owners](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-using-tags)
     * Use [Azure reservations](https://azure.microsoft.com/en-ca/reservations/)
-    * Use Azure Advisor recommendations
+    * Use [Azure Advisor recommendations](https://docs.microsoft.com/en-ca/azure/advisor/advisor-overview)
 * Describe [Azure Cost Management](https://docs.microsoft.com/en-us/azure/cost-management/overview-cost-mgt)
 
 ## Understand the support options available with Azure
