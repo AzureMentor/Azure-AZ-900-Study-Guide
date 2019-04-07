@@ -1,4 +1,4 @@
-# Understand Security, Privacy, Compliance, and Trust (25-30%)
+# AZ-900: Understand Security, Privacy, Compliance, and Trust (25-30%)
 
 ## Understand securing network connectivity in Azure
 
