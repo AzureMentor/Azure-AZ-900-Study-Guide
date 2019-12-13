@@ -15,6 +15,8 @@
 	* [Virtual Machine Scale Sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
 	* [App Service](https://docs.microsoft.com/en-us/azure/app-service/)
 	* [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
+	* Azure Container Instsances (ACI)
+	* Azure Kubernetes Service (AKS)
 * Describe products available for Networking such as:
 	* [Virtual Network](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
 	* [Load Balancer](https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview)
@@ -29,8 +31,10 @@
 * Describe products available for Databases such as:
 	* [Azure Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction)
 	* [Azure SQL Database](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-technical-overview)
+	* Azure Databsae for MySQL
+	* Azure Database for PostgreSQL
 	* [Azure Database Migration Service (DMS)](https://docs.microsoft.com/en-us/azure/dms/dms-overview)
-	* [Azure SQL Data Warehouse](https://docs.microsoft.com/en-ca/azure/sql-data-warehouse/sql-data-warehouse-overview-what-is)
+	* [Azure Synapse Analytics (formerly SQL DW)](https://docs.microsoft.com/en-ca/azure/sql-data-warehouse/sql-data-warehouse-overview-what-is)
 * Describe the [Azure Marketplace and its usage scenarios](https://azuremarketplace.microsoft.com/en-us/about)
 
 ## Describe some of the solutions available on Azure
@@ -40,22 +44,24 @@
 	* [IoT Hub](https://docs.microsoft.com/en-ca/azure/iot-hub/about-iot-hub)
 	* [IoT Central](https://docs.microsoft.com/en-ca/azure/iot-central/overview-iot-central)
 * Describe Big Data and Analytics and products that are available for Big Data and Analytics such as:
-	* [SQL Data Warehouse](https://docs.microsoft.com/en-ca/azure/sql-data-warehouse/sql-data-warehouse-overview-what-is)
+	* [Azure Synapse Analytics (formerly SQL DW)](https://docs.microsoft.com/en-ca/azure/sql-data-warehouse/sql-data-warehouse-overview-what-is)
 	* [HDInsight](https://docs.microsoft.com/en-ca/azure/hdinsight/)
-	* [Data Lake Analytics](https://docs.microsoft.com/en-ca/azure/data-lake-analytics/data-lake-analytics-overview)
+	* [Azure Databricks](https://docs.microsoft.com/en-us/azure/azure-databricks/what-is-azure-databricks)
 * Describe Artificial Intelligence (AI) and products that are available for AI such as:
 	* [Azure Machine Learning Service](https://azure.microsoft.com/en-ca/services/machine-learning-service/)
 	* [Azure Machine Learning Studio](https://azure.microsoft.com/en-ca/services/machine-learning-studio/) | [https://studio.azureml.net/](https://studio.azureml.net/)
 * Describe Serverless computing and Azure products that are available for serverless computing such as:
 	* [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
 	* [Logic Apps](https://docs.microsoft.com/en-ca/azure/logic-apps/logic-apps-overview)
-	* App grid
+	* Event grid
 * Describe the benefits and outcomes of using Azure solutions
 
 ## Understand Azure management tools
 
 * Understand Azure tools such as:
-	* [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest)
-	* [Azure PowerShell](https://docs.microsoft.com/en-us/powershell/azure/overview?view=azps-1.6.0)
 	* [Azure Portal](https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-overview)
+	* [Azure PowerShell](https://docs.microsoft.com/en-us/powershell/azure/overview?view=azps-1.6.0)
+	* [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest)
+	* [Azure Cloud Shell](https://docs.microsoft.com/en-us/azure/cloud-shell/overview)
+
 * Understand [Azure Advisor](https://docs.microsoft.com/en-us/azure/advisor/advisor-overview)
