@@ -2,9 +2,11 @@
 
 ## Understand securing network connectivity in Azure
 
+* Describe [Network Security Groups (NSG)](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview)
+* Describe [Application Security Groups (ASG)](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview#application-security-groups)
+* Describe User Defined Rules (UDR)
 * Describe [Azure Firewall](https://docs.microsoft.com/en-us/azure/firewall/overview)
 * Describe [Azure DDoS Protection](https://docs.microsoft.com/en-us/azure/virtual-network/ddos-protection-overview)
-* Describe [Network Security Group (NSG)](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview)
 * Choose an appropriate Azure security solution
 
 ## Describe core Azure Identity services
@@ -15,7 +17,7 @@
 
 ## Describe security tools and features of Azure
 
-* Describe [Azure Security](https://docs.microsoft.com/en-us/azure/security/azure-security)
+* Describe [Azure Security Center](https://docs.microsoft.com/en-us/azure/security/azure-security)
 * Understand [Azure Security Center](https://docs.microsoft.com/en-ca/azure/security-center/security-center-intro) usage scenarios
 * Describe [Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-whatis)
 * Describe [Azure Information Protection (AIP)](https://docs.microsoft.com/en-us/azure/information-protection/what-is-information-protection)
@@ -23,11 +25,11 @@
 
 ## Describe Azure governance methodologies
 
-* Describe [Azure Policies](https://docs.microsoft.com/en-us/azure/governance/policy/overview)
-* Describe Initiatives
+* Describe policies and initiatives with [Azure Policy](https://docs.microsoft.com/en-us/azure/governance/policy/overview)
 * Describe [Role-Based Access Control (RBAC)](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview)
 * Describe [Locks](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-lock-resources)
 * Describe [Azure Advisor](https://docs.microsoft.com/en-us/azure/advisor/advisor-overview) security assistance
+* Describe [Azure Blueprints](https://docs.microsoft.com/en-us/azure/governance/blueprints/overview)
 
 ## Understand monitoring and reporting options in Azure
 
@@ -48,5 +50,5 @@
 * Describe the [Service Trust Portal](https://servicetrust.microsoft.com/) | [Getting Started](https://docs.microsoft.com/en-us/office365/securitycompliance/get-started-with-service-trust-portal)
 * Describe [Compliance Manager](/)
 * Determine if Azure is compliant for a business need
-* Understand [Azure Government services](https://docs.microsoft.com/en-us/azure/azure-government/documentation-government-welcome)
-* Understand [Azure Germany services](https://docs.microsoft.com/en-ca/azure/germany/germany-welcome)
+* Understand [Azure Government cloud services](https://docs.microsoft.com/en-us/azure/azure-government/documentation-government-welcome)
+* Describe Azure China cloud services
