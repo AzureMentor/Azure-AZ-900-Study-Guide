@@ -39,7 +39,7 @@
 
 ## Describe some of the solutions available on Azure
 
-* Describe Internet of Things (IoT) and products that are available for IoT on Azure such as:
+* Describe [Internet of Things (IoT) and products](https://docs.microsoft.com/en-us/azure/iot-fundamentals/iot-services-and-technologies) that are available for IoT on Azure such as:
 	* [IoT Fundamentals](https://docs.microsoft.com/bs-cyrl-ba/azure/iot-fundamentals/index)
 	* [IoT Hub](https://docs.microsoft.com/en-ca/azure/iot-hub/about-iot-hub)
 	* [IoT Central](https://docs.microsoft.com/en-ca/azure/iot-central/overview-iot-central)
