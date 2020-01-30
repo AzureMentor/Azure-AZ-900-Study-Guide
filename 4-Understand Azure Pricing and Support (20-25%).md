@@ -6,6 +6,7 @@
 * Understand the uses and options with Azure Subscriptions such as:
     * Access Control
     * Offer Types
+* Understand subscription management using Management Groups
 
 ## Understand planning and management of costs
 
