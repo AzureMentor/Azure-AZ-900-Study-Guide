@@ -15,7 +15,7 @@
 	* [Virtual Machine Scale Sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
 	* [App Service](https://docs.microsoft.com/en-us/azure/app-service/)
 	* [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
-	* Azure Container Instsances (ACI)
+	* Azure Container Instances (ACI)
 	* Azure Kubernetes Service (AKS)
 * Describe products available for Networking such as:
 	* [Virtual Network](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
