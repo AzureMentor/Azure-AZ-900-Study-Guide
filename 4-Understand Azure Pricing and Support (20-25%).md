@@ -53,3 +53,5 @@
 * Understand the term General Availability (GA)
     * GA means a service is in production and can be used by anyone with an Azure subscription
 * Understand how to [monitor feature updates and product changes](https://azure.microsoft.com/en-ca/updates/)
+
+[Return to Table of Contents](README.md)
