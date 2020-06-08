@@ -1,19 +1,19 @@
-# AZ-900: Understand Cloud Concepts (15-20%)
+# AZ-900: Describe Cloud Concepts (15-20%)
 
 ## Describe the benefits and considerations of using cloud services
 
-* Understand terms such as:
+* Describe terms such as:
     * [High Availability](https://docs.microsoft.com/en-us/azure/architecture/checklist/availability)
     * Scalability
     * [Elasticity](https://azure.microsoft.com/en-ca/overview/what-is-elastic-computing/)
     * Agility
     * Fault Tolerance
     * [Disaster Recovery](https://docs.microsoft.com/en-ca/azure/site-recovery/site-recovery-overview)
-* Understand the Principles of Economies of Scale [(PDF)](http://download.microsoft.com/download/6/e/4/6e4cb3d1-5004-4024-8d90-6c66c83c17aa/the_economics_of_the_cloud_white_paper.pdf)
-* Understand the differences between:
+* Describe the Principles of Economies of Scale [(PDF)](http://download.microsoft.com/download/6/e/4/6e4cb3d1-5004-4024-8d90-6c66c83c17aa/the_economics_of_the_cloud_white_paper.pdf)
+* Describe the differences between:
     * Capital Expenditure (CapEx)
     * Operational Expenditure (OpEx)
-* Understand the consumption-based model
+* Describe the consumption-based model
 
 ## Describe the differences between Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS)
 
