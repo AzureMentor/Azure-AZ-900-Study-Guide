@@ -15,8 +15,8 @@
     * [Virtual Machine Scale Sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
     * [App Service](https://docs.microsoft.com/en-us/azure/app-service/)
     * [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
-    * Azure Container Instances (ACI)
-    * Azure Kubernetes Service (AKS)
+    * [Azure Container Instances (ACI)](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-overview)
+    * [Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes)
 * Describe products available for Networking such as:
     * [Virtual Network](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
     * [Load Balancer](https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview)
@@ -31,8 +31,8 @@
 * Describe products available for Databases such as:
     * [Azure Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction)
     * [Azure SQL Database](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-technical-overview)
-    * Azure Databsae for MySQL
-    * Azure Database for PostgreSQL
+    * [Azure Databsae for MySQL](https://docs.microsoft.com/en-us/azure/mysql/overview)
+    * [Azure Database for PostgreSQL](https://docs.microsoft.com/en-us/azure/postgresql/overview)
     * [Azure Database Migration Service (DMS)](https://docs.microsoft.com/en-us/azure/dms/dms-overview)
     * [Azure Synapse Analytics](https://docs.microsoft.com/en-ca/azure/sql-data-warehouse/sql-data-warehouse-overview-what-is)
 * Describe the [Azure Marketplace and its usage scenarios](https://azuremarketplace.microsoft.com/en-us/about)
@@ -53,7 +53,7 @@
 * Describe Serverless computing and Azure products that are available for serverless computing such as:
     * [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
     * [Logic Apps](https://docs.microsoft.com/en-ca/azure/logic-apps/logic-apps-overview)
-    * Event grid
+    * [Event grid](https://docs.microsoft.com/en-us/azure/event-grid/overview)
 * Describe the benefits and outcomes of using Azure solutions
 
 ## Describe Azure management tools
