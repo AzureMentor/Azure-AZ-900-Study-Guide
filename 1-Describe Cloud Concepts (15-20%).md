@@ -13,6 +13,7 @@
 * Describe the differences between:
     * Capital Expenditure (CapEx)
     * Operational Expenditure (OpEx)
+    * [OpEx vs. CapEx: The Real Cloud Computing Cost Advantage](https://www.10thmagnitude.com/opex-vs-capex-the-real-cloud-computing-cost-advantage/)
 * Describe the consumption-based model
 
 ## Describe the differences between Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS)
