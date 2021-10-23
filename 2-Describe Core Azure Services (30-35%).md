@@ -6,7 +6,7 @@
 * Describe [Availability Zones](https://docs.microsoft.com/en-us/azure/availability-zones/az-overview)
 * Describe [Resource Groups](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/getting-started/azure-resource-access#what-is-an-azure-resource-group)
 * Describe [Azure Resource Manager](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview)
-* Describe the benefits and usage of core Azure architectural components
+* Describe the [benefits and usage of core Azure architectural components](https://t-guider.com/index.php/2021/04/01/core-azure-architectural-components/)
 
 ## Describe some of the core products available in Azure
 
