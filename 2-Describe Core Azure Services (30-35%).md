@@ -7,6 +7,9 @@
 * Describe [Resource Groups](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/getting-started/azure-resource-access#what-is-an-azure-resource-group)
 * Describe [Azure Resource Manager](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview)
 * Describe the benefits and usage of core Azure architectural components
+   * [Azure subscriptions and management groups](https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/overview)
+   * [Azure resources, resource groups, and Azure Resource Manager](https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/resources-resource-manager)
+   * [Azure regions, region pairs, and availability zones ](https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/regions-availability-zones)
 
 ## Describe some of the core products available in Azure
 
