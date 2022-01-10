@@ -4,7 +4,7 @@
 
 * Describe [Network Security Groups (NSG)](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview)
 * Describe [Application Security Groups (ASG)](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview#application-security-groups)
-* Describe User Defined Rules (UDR)
+* Describe [User Defined Routes (UDR)](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview)
 * Describe [Azure Firewall](https://docs.microsoft.com/en-us/azure/firewall/overview)
 * Describe [Azure DDoS Protection](https://docs.microsoft.com/en-us/azure/virtual-network/ddos-protection-overview)
 * Choose an appropriate Azure security solution
