@@ -1,4 +1,4 @@
-# AZ-900: Describe Azure Pricing, Service Level Agreements, and Lifecycles (20-25%)
+# AZ-900: Describe Azure Cost Management and Service Level Agreements (10-15%)
 
 ## Describe Azure Subscriptions
 

@@ -1,4 +1,4 @@
-# AZ-900: Describe Core Azure Services (30-35%)
+# AZ-900: Describe Core Azure Services (15-20%)
 
 ## Describe the core Azure architectural components
 

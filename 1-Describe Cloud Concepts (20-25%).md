@@ -1,4 +1,4 @@
-# AZ-900: Describe Cloud Concepts (15-20%)
+# AZ-900: Describe Cloud Concepts (20-25%)
 
 ## Describe the benefits and considerations of using cloud services
 

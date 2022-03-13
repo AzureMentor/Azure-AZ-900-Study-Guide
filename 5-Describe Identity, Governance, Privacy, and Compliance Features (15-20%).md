@@ -1,4 +1,4 @@
-# AZ-900: Describe Security, Privacy, Compliance, and Trust (25-30%)
+# AZ-900: Describe Identity, Governance, Privacy, and Compliance Features (15-20%)
 
 ## Describe securing network connectivity in Azure
 
