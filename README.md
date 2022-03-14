@@ -1,4 +1,4 @@
-#%20AZ-900: Microsoft Azure Fundamentals Study Guide
+# AZ-900: Microsoft Azure Fundamentals Study Guide
 
 ## Skills measured
 1. [Describe Cloud Concepts (20-25%)](1-Describe%20Cloud%20Concepts%20(20-25%25).md)
