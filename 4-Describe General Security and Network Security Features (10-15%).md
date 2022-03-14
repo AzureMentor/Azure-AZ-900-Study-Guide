@@ -3,20 +3,21 @@
 ## Describe Azure security features
 * [Introduction to Azure security](https://docs.microsoft.com/en-us/azure/security/azure-security)
 * Describe basic features of [Azure Security Center / Microsoft Defender for Cloud](https://docs.microsoft.com/en-ca/azure/security-center/security-center-intro), including:
-    * Policy compliance
-    * Security alerts
-    * Secure score
-    * Resource hygiene
-* Describe the functionality and usage of [Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-whatis)
-* Describe the functionality and usage of Azure Sentinel
-* Describe the functionality and usage of Azure Dedicated Hosts
+    * [Policy compliance](https://docs.microsoft.com/en-us/azure/governance/policy/how-to/get-compliance-data)
+    * [Security alerts](https://docs.microsoft.com/en-us/azure/defender-for-cloud/alerts-overview)
+    * [Secure score](https://docs.microsoft.com/en-us/azure/defender-for-cloud/secure-score-security-controls)
+    * [Resource hygiene](https://azure.microsoft.com/en-gb/blog/introducing-the-redesigned-security-center-overview-dashboard/)
+* Describe the functionality and usage of:
+    * [Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-whatis)
+    * [Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/overview)
+    * [Azure Dedicated Hosts](https://azure.microsoft.com/en-us/services/virtual-machines/dedicated-host/)
 
 ## Describe Azure network security
-* Describe the concept of defense in depth
-* Describe the functionality and usage of [Network Security Groups (NSG)](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview)
-* Describe the functionality and usage of [Azure Firewall](https://docs.microsoft.com/en-us/azure/firewall/overview)
-* Describe the functionality and usage of [Azure DDoS Protection](https://docs.microsoft.com/en-us/azure/virtual-network/ddos-protection-overview)
-* Describe User Defined Rules (UDR)
-* Describe [Application Security Groups (ASG)](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview#application-security-groups)
+* Describe the concept of [defense in depth](https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/)
+* Describe the functionality and usage of:
+    * [Network Security Groups (NSG)](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview)
+    * [Azure Firewall](https://docs.microsoft.com/en-us/azure/firewall/overview)
+    * [Azure DDoS Protection](https://docs.microsoft.com/en-us/azure/virtual-network/ddos-protection-overview)
+    * [Application Security Groups (ASG)](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview#application-security-groups)
 
 [Return to Table of Contents](README.md)

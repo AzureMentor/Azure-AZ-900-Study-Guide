@@ -6,14 +6,15 @@
     * Resource Types
     * Services
     * Locations
-    * Ingress traffic
-    * Egress traffic
+    * [Bandwidth Pricing](https://azure.microsoft.com/en-us/pricing/details/bandwidth/)
+        * Ingress traffic
+        * Egress traffic
 * Identify factors that can reduce costs:
     * [Azure reservations](https://azure.microsoft.com/en-ca/reservations/)
-    * Reserved instances
-    * Reserved capacity
-    * Hybrid use benefit
-    * Spot pricing
+        * Reserved instances
+        * Reserved capacity
+    * [Azure Hybrid Benefit](https://azure.microsoft.com/en-ca/pricing/hybrid-benefit/)
+    * [Spot pricing](https://azure.microsoft.com/en-ca/services/virtual-machines/spot/)
 * Describe the functionality and usage of:
     * [Pricing calculator](https://azure.microsoft.com/en-ca/pricing/calculator/)
     * [Total Cost of Ownership (TCO) calculator](https://azure.microsoft.com/en-ca/pricing/tco/)
@@ -29,11 +30,11 @@
 ## Describe Azure Service Level Agreements (SLAs) and service lifecycles
 
 * Describe the purpose of an [Azure Service Level Agreement (SLA)](https://azure.microsoft.com/en-ca/support/legal/sla/)
-* Identify actions that can impact an SLA (i.e. Availability Zones)
+* Identify actions that can impact an SLA (i.e. [Availability Zones](https://docs.microsoft.com/en-us/azure/availability-zones/az-overview))
 * Describe the service lifecycle in Azure:
-    * Public Preview
+    * [Public Preview](https://azure.microsoft.com/en-ca/support/legal/preview-supplemental-terms)
     * [Private Preview](https://azure.microsoft.com/en-ca/support/legal/preview-supplemental-terms/)
-    * General Availability
+    * General Availability (GA)
         * GA means a service is in production and can be used by anyone with an Azure subscription
 * Describe how to [monitor feature updates and product changes](https://azure.microsoft.com/en-ca/updates/)
 
