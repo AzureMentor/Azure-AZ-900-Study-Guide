@@ -34,13 +34,9 @@
     * [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest)
     * [Azure Cloud Shell](https://docs.microsoft.com/en-us/azure/cloud-shell/overview)
     * [Azure Mobile App](https://azure.microsoft.com/en-us/services/app-service/mobile/)
-* Describe the functionality and usage of:
     * [Azure Advisor](https://docs.microsoft.com/en-us/azure/advisor/advisor-overview)
-* Describe the functionality and usage of:
     * [Azure Resource Manager (ARM) templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview)
-* Describe the functionality and usage of:
     * [Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/overview)
-* Describe the functionality and usage of:
     * [Azure Service Health](https://docs.microsoft.com/en-ca/azure/service-health/)
 
 [Return to Table of Contents](README.md)
