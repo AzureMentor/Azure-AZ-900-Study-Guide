@@ -1,56 +1,50 @@
 # AZ-900: Describe Identity, Governance, Privacy, and Compliance Features (15-20%)
 
-## Describe securing network connectivity in Azure
-
-* Describe [Network Security Groups (NSG)](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview)
-* Describe [Application Security Groups (ASG)](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview#application-security-groups)
-* Describe User Defined Rules (UDR)
-* Describe [Azure Firewall](https://docs.microsoft.com/en-us/azure/firewall/overview)
-* Describe [Azure DDoS Protection](https://docs.microsoft.com/en-us/azure/virtual-network/ddos-protection-overview)
-* Choose an appropriate Azure security solution
-
 ## Describe core Azure Identity services
 
-* Describe the difference between [Authentication and Authorization](https://docs.microsoft.com/en-us/azure/app-service/overview-authentication-authorization)
-* Describe [Azure Active Directory](https://docs.microsoft.com/en-ca/azure/active-directory/fundamentals/active-directory-whatis)
-* Describe [Azure Multi-Factor Authentication](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks)
-
-## Describe security tools and features of Azure
-
-* Describe [Azure Security Center](https://docs.microsoft.com/en-us/azure/security/azure-security)
-* Describe [Azure Security Center](https://docs.microsoft.com/en-ca/azure/security-center/security-center-intro) usage scenarios
-* Describe [Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-whatis)
+* Explain the difference between [Authentication and Authorization](https://docs.microsoft.com/en-us/azure/app-service/overview-authentication-authorization)
+* Define [Azure Active Directory](https://docs.microsoft.com/en-ca/azure/active-directory/fundamentals/active-directory-whatis)
+* Describe the functionality and usage of Azure Active Directory
+* Describe the functionality and usage of:
+    * Conditional Access
+    * [Multi-Factor Authentication (MFA)](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks)
+    * Single Sign-On (SSO)
 * Describe [Azure Information Protection (AIP)](https://docs.microsoft.com/en-us/azure/information-protection/what-is-information-protection)
-* Describe [Azure Advanced Threat Protection (ATP)](https://docs.microsoft.com/en-us/azure-advanced-threat-protection/what-is-atp)
+* Describe [Microsoft Defender for Identity](https://docs.microsoft.com/en-us/defender-for-identity/what-is)
 
-## Describe Azure governance methodologies
+## Describe Azure governance features
 
-* Describe policies and initiatives with [Azure Policy](https://docs.microsoft.com/en-us/azure/governance/policy/overview)
 * Describe [Role-Based Access Control (RBAC)](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview)
-* Describe [Locks](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-lock-resources)
-* Describe [Azure Advisor](https://docs.microsoft.com/en-us/azure/advisor/advisor-overview) security assistance
+* Describe [Resource Locks](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-lock-resources)
+* Describe the functionality and usage of [Tags](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-using-tags)
+* Describe policies and initiatives with [Azure Policy](https://docs.microsoft.com/en-us/azure/governance/policy/overview)
 * Describe [Azure Blueprints](https://docs.microsoft.com/en-us/azure/governance/blueprints/overview)
+* Describe the Cloud Adoption Framework for Azure
 
-## Describe monitoring and reporting options in Azure
+## Describe privacy and compliance resources
 
-* Describe [Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/overview)
-* Describe [Azure Service Health](https://docs.microsoft.com/en-ca/azure/service-health/)
-* Describe the use cases and benefits of:
-    * Azure Monitor
-    * Azure Service Health
-
-## Describe privacy, compliance and data protection standards in Azure
-
+* Describe the Microsoft core tenets of:
+    * Security
+    * Privacy
+    * Compliance
+    * [Service Trust Portal](https://servicetrust.microsoft.com/)
+* Describe the purpose of:
+    * [Microsoft Privacy Statement](https://privacy.microsoft.com/en-ca/privacystatement)
+    * Online Services Terms (OST)
+    * Data Protection Amendment (DPA)
+* Describe the purpose of:
+    * [Trust Center](https://www.microsoft.com/en-us/trustcenter/cloudservices/azure)
+    * [Get started with the Microsoft Service Trust Portal](https://docs.microsoft.com/en-us/office365/securitycompliance/get-started-with-service-trust-portal)
+* Describe the purpose of:
+    * Azure compliance documentation
+* Describe the purpose of:
+    * Azure Sovereign Regions
+        * [Azure Government cloud services](https://docs.microsoft.com/en-us/azure/azure-government/documentation-government-welcome)
+        * Azure China cloud services
 * Describe industry compliance terms such as:
-    * [GDPR](https://www.microsoft.com/en-us/trustcenter/privacy/gdpr/gdpr-overview) | [More info](https://docs.microsoft.com/en-us/office365/securitycompliance/manage-gdpr-data-subject-requests-with-the-dsr-case-tool)
+    * [GDPR](https://www.microsoft.com/en-us/trustcenter/privacy/gdpr/gdpr-overview)
+        * [Manage GDPR data subject requests with the DSR case tool in the Microsoft 365 compliance center](https://docs.microsoft.com/en-us/office365/securitycompliance/manage-gdpr-data-subject-requests-with-the-dsr-case-tool)
     * [ISO](https://www.microsoft.com/en-us/TrustCenter/Compliance/iso-iec-27018)
     * [NIST](https://www.microsoft.com/en-us/trustcenter/compliance/NIST_CSF)
-* Describe the [Microsoft Privacy Statement](https://privacy.microsoft.com/en-ca/privacystatement)
-* Describe the [Trust Center](https://www.microsoft.com/en-us/trustcenter/cloudservices/azure)
-* Describe the [Service Trust Portal](https://servicetrust.microsoft.com/) | [Getting Started](https://docs.microsoft.com/en-us/office365/securitycompliance/get-started-with-service-trust-portal)
-* Describe [Compliance Manager](/)
-* Determine if Azure is compliant for a business need
-* Describe [Azure Government cloud services](https://docs.microsoft.com/en-us/azure/azure-government/documentation-government-welcome)
-* Describe Azure China cloud services
 
 [Return to Table of Contents](README.md)

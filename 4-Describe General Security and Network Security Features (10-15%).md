@@ -1,12 +1,13 @@
 # AZ-900: Describe General Security and Network Security Features (10-15%)
 
 ## Describe Azure security features
-* Describe basic features of Azure Security Center, including:
+* [Introduction to Azure security](https://docs.microsoft.com/en-us/azure/security/azure-security)
+* Describe basic features of [Azure Security Center / Microsoft Defender for Cloud](https://docs.microsoft.com/en-ca/azure/security-center/security-center-intro), including:
     * Policy compliance
     * Security alerts
     * Secure score
     * Resource hygiene
-* Describe the functionality and usage of Azure Key Vault
+* Describe the functionality and usage of [Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-whatis)
 * Describe the functionality and usage of Azure Sentinel
 * Describe the functionality and usage of Azure Dedicated Hosts
 

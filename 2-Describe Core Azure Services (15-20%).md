@@ -7,8 +7,8 @@
     * Region Pairs
 * Describe the benefits and usage of [Availability Zones](https://docs.microsoft.com/en-us/azure/availability-zones/az-overview)
 * Describe the benefits and usage of [Resource Groups](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/getting-started/azure-resource-access#what-is-an-azure-resource-group)
-* Describe the benefits and usage of Subscriptions
-* Describe the benefits and usage of Management Groups
+* Describe the benefits and usage of [Azure Subscription](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/getting-started/azure-resource-access#what-is-an-azure-subscription)
+* Describe the benefits and usage of [Management Groups](https://docs.microsoft.com/en-us/azure/governance/management-groups/overview)
 * Describe the benefits and usage of [Azure Resource Manager](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview)
 * Explain Azure resources
 
