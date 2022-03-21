@@ -20,10 +20,9 @@
 * Describe [Platform-as-a-Service (PaaS)](https://azure.microsoft.com/en-ca/overview/what-is-paas/)
 * Describe [Software-as-a-Service (SaaS)](https://azure.microsoft.com/en-ca/overview/what-is-saas/)
 * Describe [Infrastructure-as-a-Service (IaaS)](https://azure.microsoft.com/en-ca/overview/what-is-iaas/)
-* [Compare and contrast the 3 different service types](https://azure.microsoft.com/en-ca/overview/types-of-cloud-computing/)
 * Describe [Serverless Computing](https://azure.microsoft.com/en-ca/overview/serverless-computing/)
 * Describe [Software-as-a-Service (SaaS)](https://azure.microsoft.com/en-ca/overview/what-is-saas/)
-* Identify a service type based on a use case
+* Identify a [service type]((https://azure.microsoft.com/en-ca/overview/types-of-cloud-computing/)) based on a use case
 
 ## Describe the differences between types of cloud computing
 
@@ -31,6 +30,6 @@
 * Describe [Public cloud](https://azure.microsoft.com/en-ca/overview/what-is-a-public-cloud/)
 * Describe [Private cloud](https://azure.microsoft.com/en-ca/overview/what-is-a-private-cloud/)
 * Describe [Hybrid cloud](https://azure.microsoft.com/en-ca/overview/what-is-hybrid-cloud-computing/)
-* Compare nd contrast the 3 types of cloud computing
+* Compare and contrast the [3 types of cloud computing](https://azure.microsoft.com/en-us/overview/what-are-private-public-hybrid-clouds/)
 
 [Return to Table of Contents](README.md)
