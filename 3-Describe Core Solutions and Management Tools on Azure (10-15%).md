@@ -8,7 +8,7 @@
     * [IoT Central](https://docs.microsoft.com/en-ca/azure/iot-central/overview-iot-central)
     * [Azure Sphere](https://docs.microsoft.com/en-us/azure-sphere/product-overview/what-is-azure-sphere)
 * Describe the benefits and usage of:
-    * [Azure Synapse Analytics](https://docs.microsoft.com/en-ca/azure/sql-data-warehouse/sql-data-warehouse-overview-what-is)
+    * [Azure Synapse Analytics](https://docs.microsoft.com/en-ca/azure/synapse-analytics/overview-what-is)
     * [HDInsight](https://docs.microsoft.com/en-ca/azure/hdinsight/)
     * [Azure Databricks](https://docs.microsoft.com/en-us/azure/azure-databricks/what-is-azure-databricks)
 * Describe the benefits and usage of:
