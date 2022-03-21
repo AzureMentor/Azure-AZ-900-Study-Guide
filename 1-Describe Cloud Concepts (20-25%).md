@@ -22,7 +22,7 @@
 * Describe [Infrastructure-as-a-Service (IaaS)](https://azure.microsoft.com/en-ca/overview/what-is-iaas/)
 * Describe [Serverless Computing](https://azure.microsoft.com/en-ca/overview/serverless-computing/)
 * Describe [Software-as-a-Service (SaaS)](https://azure.microsoft.com/en-ca/overview/what-is-saas/)
-* Identify a [service type]((https://azure.microsoft.com/en-ca/overview/types-of-cloud-computing/)) based on a use case
+* Identify a [service type](https://azure.microsoft.com/en-ca/overview/types-of-cloud-computing/) based on a use case
 
 ## Describe the differences between types of cloud computing
 
