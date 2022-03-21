@@ -12,7 +12,7 @@
     * [Azure HDInsight](https://docs.microsoft.com/en-ca/azure/hdinsight/hdinsight-overview)
     * [Azure Databricks](https://docs.microsoft.com/en-us/azure/azure-databricks/what-is-azure-databricks)
 * Describe the benefits and usage of:
-    * [Azure Machine Learning](https://azure.microsoft.com/en-ca/services/machine-learning/)
+    * [Azure Machine Learning](https://azure.microsoft.com/en-ca/services/machine-learning/) | [What is Machine Learning?](https://azure.microsoft.com/en-ca/overview/what-is-machine-learning-platform/)
     * [Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/)
     * [Azure Bot Service](https://azure.microsoft.com/en-ca/services/bot-services/)
     * [Azure Machine Learning Service](https://azure.microsoft.com/en-ca/services/machine-learning-service/)
