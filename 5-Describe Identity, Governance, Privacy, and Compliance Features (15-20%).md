@@ -14,11 +14,12 @@
 
 ## Describe Azure governance features
 
-* Describe [Role-Based Access Control (RBAC)](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview)
-* Describe [Resource Locks](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-lock-resources)
-* Describe the functionality and usage of [Tags](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-using-tags)
-* Describe policies and initiatives with [Azure Policy](https://docs.microsoft.com/en-us/azure/governance/policy/overview)
-* Describe [Azure Blueprints](https://docs.microsoft.com/en-us/azure/governance/blueprints/overview)
+* Describe the functionality and usage of:
+    * [Role-Based Access Control (RBAC)](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview)
+    * [Resource Locks](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-lock-resources)
+    * [Tags](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-using-tags)
+    * [Azure Policy](https://docs.microsoft.com/en-us/azure/governance/policy/overview)
+    * [Azure Blueprints](https://docs.microsoft.com/en-us/azure/governance/blueprints/overview)
 * Describe the [Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
 
 ## Describe privacy and compliance resources
