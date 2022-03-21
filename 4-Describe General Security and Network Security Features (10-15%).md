@@ -10,7 +10,7 @@
 * Describe the functionality and usage of:
     * [Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-whatis)
     * [Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/overview)
-    * [Azure Dedicated Hosts](https://azure.microsoft.com/en-us/services/virtual-machines/dedicated-host/)
+    * [Azure Dedicated Hosts](https://docs.microsoft.com/en-us/azure/virtual-machines/dedicated-hosts)
 
 ## Describe Azure network security
 * Describe the concept of [defense in depth](https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/)
