@@ -9,7 +9,7 @@
     * [Azure Sphere](https://docs.microsoft.com/en-us/azure-sphere/product-overview/what-is-azure-sphere)
 * Describe the benefits and usage of:
     * [Azure Synapse Analytics](https://docs.microsoft.com/en-ca/azure/synapse-analytics/overview-what-is)
-    * [HDInsight](https://docs.microsoft.com/en-ca/azure/hdinsight/)
+    * [Azure HDInsight](https://docs.microsoft.com/en-ca/azure/hdinsight/hdinsight-overview)
     * [Azure Databricks](https://docs.microsoft.com/en-us/azure/azure-databricks/what-is-azure-databricks)
 * Describe the benefits and usage of:
     * [Azure Machine Learning](https://azure.microsoft.com/en-ca/services/machine-learning/)
