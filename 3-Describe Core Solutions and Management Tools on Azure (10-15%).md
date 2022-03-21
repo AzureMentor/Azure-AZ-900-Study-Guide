@@ -23,7 +23,7 @@
     * [Event Grid](https://docs.microsoft.com/en-us/azure/event-grid/overview)
 * Describe the benefits and usage of:
     * [Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops)
-    * [GitHub](https://github.com/)
+    * [GitHub](https://docs.github.com/)
     * [GitHub Actions](https://github.com/features/actions)
     * [Azure DevTest Labs](https://azure.microsoft.com/en-us/services/devtest-lab/)
 
