@@ -39,4 +39,8 @@
     * [Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/overview)
     * [Azure Service Health](https://docs.microsoft.com/en-ca/azure/service-health/)
 
+## Hands-on study material at Microsoft Learn
+
+* [Describe core solutions and management tools on Azure](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-solutions-management-tools-azure)
+
 [Return to Table of Contents](README.md)

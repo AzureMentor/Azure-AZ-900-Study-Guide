@@ -45,4 +45,8 @@
 * Describe the benefits and usage of:
     * [Azure Marketplace](https://azuremarketplace.microsoft.com/en-us/about)
 
+## Hands-on study material at Microsoft Learn
+
+* [Describe core Azure services](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-azure-services)
+
 [Return to Table of Contents](README.md)

@@ -32,4 +32,8 @@
 * Describe [Hybrid cloud](https://azure.microsoft.com/en-ca/overview/what-is-hybrid-cloud-computing/)
 * Compare and contrast the [3 types of cloud computing](https://azure.microsoft.com/en-us/overview/what-are-private-public-hybrid-clouds/)
 
+## Hands-on study material at Microsoft Learn
+
+* [Describe core Azure concepts](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts)
+
 [Return to Table of Contents](README.md)

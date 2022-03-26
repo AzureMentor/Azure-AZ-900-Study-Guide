@@ -38,4 +38,8 @@
         * GA means a service is in production and can be used by anyone with an Azure subscription
 * Describe how to [monitor feature updates and product changes](https://azure.microsoft.com/en-ca/updates/)
 
+## Hands-on study material at Microsoft Learn
+
+* [Describe Azure cost management and service level agreements](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-azure-cost-management-service-level-agreements)
+
 [Return to Table of Contents](README.md)

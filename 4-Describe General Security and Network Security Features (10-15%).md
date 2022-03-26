@@ -20,4 +20,8 @@
     * [Azure DDoS Protection](https://docs.microsoft.com/en-us/azure/virtual-network/ddos-protection-overview)
     * [Application Security Groups (ASG)](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview#application-security-groups)
 
+## Hands-on study material at Microsoft Learn
+
+* [Describe general security and network security features](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-general-security-network-security-features)
+
 [Return to Table of Contents](README.md)

@@ -49,4 +49,8 @@
     * [ISO](https://www.microsoft.com/en-us/TrustCenter/Compliance/iso-iec-27018)
     * [NIST](https://www.microsoft.com/en-us/trustcenter/compliance/NIST_CSF)
 
+## Hands-on study material at Microsoft Learn
+
+* [Describe identity, governance, privacy, and compliance features](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-identity-governance-privacy-compliance-features)
+
 [Return to Table of Contents](README.md)
