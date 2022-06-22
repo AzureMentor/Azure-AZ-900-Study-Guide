@@ -38,7 +38,7 @@
 * Describe the benefits and usage of products for Databases such as:
     * [Azure Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction)
     * [Azure SQL Database](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-technical-overview)
-    * [Azure Databsae for MySQL](https://docs.microsoft.com/en-us/azure/mysql/overview)
+    * [Azure Database for MySQL](https://docs.microsoft.com/en-us/azure/mysql/overview)
     * [Azure Database for PostgreSQL](https://docs.microsoft.com/en-us/azure/postgresql/overview)
     * [Azure SQL Managed Instance](https://docs.microsoft.com/en-us/azure/azure-sql/managed-instance/sql-managed-instance-paas-overview)
     * [Azure Database Migration Service (DMS)](https://docs.microsoft.com/en-us/azure/dms/dms-overview)
