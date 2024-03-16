@@ -3,11 +3,11 @@
 ## Describe cloud computing
 * [Define cloud computing](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing/)
 * [Describe the shared responsibility model](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)
-* Define cloud models, including:
+* [Define cloud models](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-are-private-public-hybrid-clouds/), including:
     * [public](https://azure.microsoft.com/en-ca/resources/cloud-computing-dictionary/what-is-a-public-cloud/)
     * [private](https://azure.microsoft.com/en-ca/resources/cloud-computing-dictionary/what-is-a-private-cloud/)
     * [hybrid](https://azure.microsoft.com/en-ca/resources/cloud-computing-dictionary/what-is-hybrid-cloud-computing/)
-* Identify appropriate use cases for each cloud model
+* [Identify appropriate use cases for each cloud model](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-are-private-public-hybrid-clouds/)
 * Describe the consumption-based model
 * [Compare cloud pricing models](https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/cost-model)
 * [Describe serverless](https://azure.microsoft.com/en-ca/resources/cloud-computing-dictionary/what-is-serverless-computing/)

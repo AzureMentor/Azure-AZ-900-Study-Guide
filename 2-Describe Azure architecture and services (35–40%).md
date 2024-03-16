@@ -3,9 +3,9 @@
 ## Describe the core architectural components of Azure
 * [Describe Azure regions](https://azure.microsoft.com/en-ca/explore/global-infrastructure/geographies/)
 * [Describe region pairs](https://learn.microsoft.com/en-us/azure/reliability/cross-region-replication-azure)
-* [Describe sovereign regions]()
+* [Describe sovereign regions](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/regions#sovereign-regions)
 * [Describe Availability Zones](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview)
-* [Describe Azure datacenters]()
+* [Describe Azure datacenters](https://azure.microsoft.com/en-us/explore/global-infrastructure/)
 * [Describe Azure resources](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/how-azure-resource-manager-works#what-is-an-azure-resource)
 * [Describe Resource Groups](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/how-azure-resource-manager-works#what-is-an-azure-resource-group)
 * [Describe Subscriptions](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/how-azure-resource-manager-works#what-is-an-azure-subscription)
@@ -38,7 +38,7 @@
 * [Define private endpoints](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview)
 
 ## Describe Azure storage services
-* Compare Azure Storage services
+* [Compare Azure Storage services](https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction)
 * Describe storage tiers
 * Describe redundancy options
 * Describe storage account options and storage types
