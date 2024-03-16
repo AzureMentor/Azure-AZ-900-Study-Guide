@@ -8,7 +8,7 @@
     * [private](https://azure.microsoft.com/en-ca/resources/cloud-computing-dictionary/what-is-a-private-cloud/)
     * [hybrid](https://azure.microsoft.com/en-ca/resources/cloud-computing-dictionary/what-is-hybrid-cloud-computing/)
 * [Identify appropriate use cases for each cloud model](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-are-private-public-hybrid-clouds/)
-* Describe the consumption-based model
+* [Describe the consumption-based model](https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/pricing-models#consumption-based-pricing)
 * [Compare cloud pricing models](https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/cost-model)
 * [Describe serverless](https://azure.microsoft.com/en-ca/resources/cloud-computing-dictionary/what-is-serverless-computing/)
  
