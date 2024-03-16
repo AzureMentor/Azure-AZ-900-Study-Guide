@@ -18,7 +18,8 @@
     * [Azure PowerShell](https://learn.microsoft.com/en-us/powershell/azure/what-is-azure-powershell)
 * [Describe the purpose of Azure Arc](https://learn.microsoft.com/en-us/azure/azure-arc/overview)
 * [Describe Infrastructure as Code (IaC)](https://learn.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code)
-* [Describe Azure Resource Manager (ARM) and ARM templates](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/overview)
+* [Describe Azure Resource Manager (ARM)](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
+* [Describe ARM templates](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/overview)
 
 ## Describe monitoring tools in Azure
 * [Describe the purpose of Azure Advisor](https://learn.microsoft.com/en-us/azure/advisor/advisor-overview)

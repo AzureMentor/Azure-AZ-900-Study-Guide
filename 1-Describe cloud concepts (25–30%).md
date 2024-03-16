@@ -9,8 +9,8 @@
     * [hybrid](https://azure.microsoft.com/en-ca/resources/cloud-computing-dictionary/what-is-hybrid-cloud-computing/)
 * Identify appropriate use cases for each cloud model
 * Describe the consumption-based model
-* Compare cloud pricing models
-*[Describe serverless](https://azure.microsoft.com/en-ca/resources/cloud-computing-dictionary/what-is-serverless-computing/)
+* [Compare cloud pricing models](https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/cost-model)
+* [Describe serverless](https://azure.microsoft.com/en-ca/resources/cloud-computing-dictionary/what-is-serverless-computing/)
  
 ## Describe the benefits of using cloud services
 * Describe the benefits of high availability in the cloud

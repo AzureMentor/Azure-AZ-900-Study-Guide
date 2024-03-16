@@ -1,40 +1,41 @@
 # AZ-900: Describe Azure architecture and services (35–40%)
 
 ## Describe the core architectural components of Azure
-* Describe Azure regions
-* Describe region pairs
-* Describe sovereign regions
-* Describe Availability Zones
-* Describe Azure datacenters
-* Describe Azure resources
-* Describe Resource Groups
-* Describe Subscriptions
-* Describe Management Groups
-* Describe the hierarchy of Resource Groups, Subscriptions, and Management Groups
+* [Describe Azure regions](https://azure.microsoft.com/en-ca/explore/global-infrastructure/geographies/)
+* [Describe region pairs](https://learn.microsoft.com/en-us/azure/reliability/cross-region-replication-azure)
+* [Describe sovereign regions]()
+* [Describe Availability Zones](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview)
+* [Describe Azure datacenters]()
+* [Describe Azure resources](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/how-azure-resource-manager-works#what-is-an-azure-resource)
+* [Describe Resource Groups](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/how-azure-resource-manager-works#what-is-an-azure-resource-group)
+* [Describe Subscriptions](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/how-azure-resource-manager-works#what-is-an-azure-subscription)
+* [Describe Management Groups](https://learn.microsoft.com/en-us/azure/governance/management-groups/overview)
+* [Describe the hierarchy of Resource Groups, Subscriptions, and Management Groups]()
 
 ## Describe Azure compute and networking services
 * Compare compute types, including:
-    * Containers
-    * Virtual Machines
+    * [Containers](https://azure.microsoft.com/en-ca/resources/cloud-computing-dictionary/what-is-a-container/)
+    * [Virtual Machines](https://azure.microsoft.com/en-ca/resources/cloud-computing-dictionary/what-is-a-virtual-machine/)
     * [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview)
 * Describe virtual machine options, including:
-    * Azure Virtual Machines
-    * Azure Virtual Machine Scale Sets
-    * Availability Sets
-    * Azure Virtual Desktop
+    * [Azure Virtual Machines](https://learn.microsoft.com/en-ca/azure/virtual-machines/overview)
+    * [Azure Virtual Machine Scale Sets](https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
+    * [Availability Sets](https://learn.microsoft.com/en-us/azure/virtual-machines/availability-set-overview)
+    * [Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/overview)
 * Describe the resources required for virtual machines
 * Describe application hosting options, including:
-    * Web Apps
-    * Containers
-    * Virtual Machines
+    * [Web Apps](https://learn.microsoft.com/en-us/azure/app-service/overview)
+    * [Containers]()
+    * [Virtual Machines](https://learn.microsoft.com/en-ca/azure/virtual-machines/overview)
 * Describe virtual networking, including the purpose of:
-    * Azure Virtual Networks (VNets)
-    * Azure Virtual Subnets
-    * Peering
-    * Azure DNS
-    * Azure VPN Gateway
-    * ExpressRoute
-* Define public and private endpoints
+    * [Azure Virtual Networks (VNets)](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
+    * [Azure Virtual Subnets]()
+    * [Peering](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview)
+    * [Azure DNS](https://learn.microsoft.com/en-us/azure/dns/dns-overview)
+    * [Azure VPN Gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways)
+    * [Azure ExpressRoute](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-introduction)
+* Define public endpoints
+* [Define private endpoints](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview)
 
 ## Describe Azure storage services
 * Compare Azure Storage services
