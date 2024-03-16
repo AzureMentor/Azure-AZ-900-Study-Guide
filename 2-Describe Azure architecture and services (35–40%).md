@@ -39,13 +39,13 @@
 
 ## Describe Azure storage services
 * [Compare Azure Storage services](https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction)
-* Describe storage tiers
-* Describe redundancy options
-* Describe storage account options and storage types
+* [Describe storage tiers](https://learn.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview)
+* [Describe redundancy options](https://learn.microsoft.com/en-us/azure/storage/common/storage-redundancy)
+* [Describe storage account options and storage types](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-overview)
 * Identify options for moving files, including:
-    * AzCopy
-    * Azure Storage Explorer
-    * Azure File Sync
+    * [AzCopy](https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10)
+    * [Azure Storage Explorer](https://azure.microsoft.com/en-ca/products/storage/storage-explorer)
+    * [Azure File Sync](https://learn.microsoft.com/en-us/azure/storage/file-sync/file-sync-introduction)
 * Describe migration options, including:
     * [Azure Migrate](https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview)
     * [Azure Data Box](https://learn.microsoft.com/en-us/azure/databox/data-box-overview)

@@ -25,8 +25,8 @@
 * [Describe the purpose of Azure Advisor](https://learn.microsoft.com/en-us/azure/advisor/advisor-overview)
 * [Describe Azure Service Health](https://learn.microsoft.com/en-ca/azure/service-health/overview)
 * [Describe Azure Monitor](https://learn.microsoft.com/en-us/azure/azure-monitor/overview), including:
-    * Log Analytics
-    * Azure Monitor alerts
-    * Application Insights
+    * [Log Analytics](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-overview)
+    * [Azure Monitor alerts](https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-overview)
+    * [Application Insights](https://learn.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview)
 
 [Return to Table of Contents](README.md)
