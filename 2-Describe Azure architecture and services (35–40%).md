@@ -10,7 +10,7 @@
 * [Describe Resource Groups](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/how-azure-resource-manager-works#what-is-an-azure-resource-group)
 * [Describe Subscriptions](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/how-azure-resource-manager-works#what-is-an-azure-subscription)
 * [Describe Management Groups](https://learn.microsoft.com/en-us/azure/governance/management-groups/overview)
-* [Describe the hierarchy of Resource Groups, Subscriptions, and Management Groups]()
+* [Describe the hierarchy of Resource Groups, Subscriptions, and Management Groups](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/organize-resources)
 
 ## Describe Azure compute and networking services
 * Compare compute types, including:
