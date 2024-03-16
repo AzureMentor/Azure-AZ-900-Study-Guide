@@ -16,7 +16,7 @@
 * Compare compute types, including:
     * Containers
     * Virtual Machines
-    * Functions
+    * [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview)
 * Describe virtual machine options, including:
     * Azure Virtual Machines
     * Azure Virtual Machine Scale Sets
@@ -63,7 +63,7 @@
 * Describe Microsoft Entra Conditional Access
 * Describe Azure Role-Based Access Control (RBAC)
 * Describe the concept of Zero Trust
-* Describe the purpose of the defense-in-depth model
-* Describe the purpose of Microsoft Defender for Cloud
+* [Describe the purpose of the defense-in-depth model](https://azure.microsoft.com/en-us/blog/microsoft-azures-defense-in-depth-approach-to-cloud-vulnerabilities/) | [PDF](https://info.microsoft.com/rs/157-GQE-382/images/Defense_In_Depth_Enterprise%20Mobility_and_Security_61517.pdf)
+* [Describe the purpose of Microsoft Defender for Cloud](https://learn.microsoft.com/en-ca/azure/defender-for-cloud/defender-for-cloud-introduction)
 
 [Return to Table of Contents](README.md)
