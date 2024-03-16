@@ -55,12 +55,12 @@
     * [Microsoft Entra ID](https://learn.microsoft.com/en-us/entra/fundamentals/whatis)
     * [Microsoft Entra Domain Services](https://learn.microsoft.com/en-us/entra/identity/domain-services/overview)
 * Describe Authentication methods in Azure, including:
-    * Single Sign-On (SSO)
-    * Multi-Factor Authentication (MFA)
-    * passwordless
-* Describe External Identities in Azure, including:
-    * Business-to-Business (B2B)
-    * Business-to-Customer (B2C)
+    * [Single Sign-On (SSO)](https://learn.microsoft.com/en-us/entra/identity/enterprise-apps/what-is-single-sign-on)
+    * [Multi-Factor Authentication (MFA)](https://learn.microsoft.com/en-us/entra/identity/authentication/concept-mfa-howitworks)
+    * [Passwordless](https://learn.microsoft.com/en-us/entra/identity/authentication/concept-authentication-passwordless)
+* [Describe Microsoft Entra External Identities in Azure](https://learn.microsoft.com/en-us/entra/external-id/external-identities-overview), including:
+    * [Business-to-Business (B2B)](https://learn.microsoft.com/en-us/entra/external-id/what-is-b2b)
+    * [Business-to-Customer (B2C)](https://learn.microsoft.com/en-us/azure/active-directory-b2c/overview)
 * [Describe Microsoft Entra Conditional Access](https://learn.microsoft.com/en-us/entra/identity/conditional-access/overview)
 * [Describe Azure Role-Based Access Control (RBAC)](https://learn.microsoft.com/en-us/azure/role-based-access-control/overview)
 * [Describe the concept of Zero Trust](https://www.microsoft.com/en-ca/security/business/zero-trust/)
