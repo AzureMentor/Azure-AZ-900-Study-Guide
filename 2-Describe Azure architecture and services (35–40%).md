@@ -22,7 +22,7 @@
     * [Azure Virtual Machine Scale Sets](https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
     * [Availability Sets](https://learn.microsoft.com/en-us/azure/virtual-machines/availability-set-overview)
     * [Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/overview)
-* Describe the resources required for virtual machines
+* [Describe the resources required for virtual machines](https://learn.microsoft.com/en-us/azure/virtual-machines/overview#what-do-i-need-to-think-about-before-creating-a-virtual-machine)
 * Describe application hosting options, including:
     * [Web Apps](https://learn.microsoft.com/en-us/azure/app-service/overview)
     * [Containers]()
@@ -47,13 +47,13 @@
     * Azure Storage Explorer
     * Azure File Sync
 * Describe migration options, including:
-    * Azure Migrate
-    * Azure Data Box
+    * [Azure Migrate](https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview)
+    * [Azure Data Box](https://learn.microsoft.com/en-us/azure/databox/data-box-overview)
 
 ## Describe Azure identity, access, and security
 * Describe directory services in Azure, including:
-    * Microsoft Entra ID
-    * Microsoft Entra Domain Services
+    * [Microsoft Entra ID](https://learn.microsoft.com/en-us/entra/fundamentals/whatis)
+    * [Microsoft Entra Domain Services](https://learn.microsoft.com/en-us/entra/identity/domain-services/overview)
 * Describe Authentication methods in Azure, including:
     * Single Sign-On (SSO)
     * Multi-Factor Authentication (MFA)
@@ -61,9 +61,9 @@
 * Describe External Identities in Azure, including:
     * Business-to-Business (B2B)
     * Business-to-Customer (B2C)
-* Describe Microsoft Entra Conditional Access
-* Describe Azure Role-Based Access Control (RBAC)
-* Describe the concept of Zero Trust
+* [Describe Microsoft Entra Conditional Access](https://learn.microsoft.com/en-us/entra/identity/conditional-access/overview)
+* [Describe Azure Role-Based Access Control (RBAC)](https://learn.microsoft.com/en-us/azure/role-based-access-control/overview)
+* [Describe the concept of Zero Trust](https://www.microsoft.com/en-ca/security/business/zero-trust/)
 * [Describe the purpose of the defense-in-depth model](https://azure.microsoft.com/en-us/blog/microsoft-azures-defense-in-depth-approach-to-cloud-vulnerabilities/) | [PDF](https://info.microsoft.com/rs/157-GQE-382/images/Defense_In_Depth_Enterprise%20Mobility_and_Security_61517.pdf)
 * [Describe the purpose of Microsoft Defender for Cloud](https://learn.microsoft.com/en-ca/azure/defender-for-cloud/defender-for-cloud-introduction)
 
