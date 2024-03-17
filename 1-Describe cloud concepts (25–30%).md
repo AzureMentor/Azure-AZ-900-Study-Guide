@@ -13,11 +13,11 @@
 * [Describe serverless](https://azure.microsoft.com/en-ca/resources/cloud-computing-dictionary/what-is-serverless-computing/)
  
 ## Describe the benefits of using cloud services
-* Describe the benefits of high availability in the cloud
+* [Describe the benefits of high availability in the cloud](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/2-high-availability-scalability-cloud)
 * [Describe the benefits of scalability in the cloud](https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/scale-partition)
-* Describe the benefits of reliability and predictability in the cloud
-* Describe the benefits of security and governance in the cloud
-* Describe the benefits of manageability in the cloud
+* [Describe the benefits of reliability and predictability in the cloud](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/3-reliability-predictability-cloud)
+* [Describe the benefits of security and governance in the cloud](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/4-security-governance-cloud)
+* [Describe the benefits of manageability in the cloud](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/5-manageability-cloud)
  
 ## Describe cloud service types
 * [Describe Infrastructure as a Service (IaaS)](https://azure.microsoft.com/en-ca/resources/cloud-computing-dictionary/what-is-iaas/)
