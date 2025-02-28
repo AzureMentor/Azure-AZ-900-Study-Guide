@@ -11,3 +11,7 @@
 * [Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
 * [Describe Azure architecture and services](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-azure-architecture-services/)
 * [Describe Azure management and governance](https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/)
+
+## Free Practice Assessment
+
+* [AZ-900 Practice Assessment](https://rebrand.ly/AZ-900-Practice-Assessment)
